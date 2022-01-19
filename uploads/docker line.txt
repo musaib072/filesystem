@@ -1,0 +1,1 @@
+another way to access the container is to  host network this takes out any isolation between docker hoost  and docker hub 
